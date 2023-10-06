@@ -111,3 +111,69 @@ ls  i
 ls
 sudo visudo
 su Monicah_Naibei_145890
+ls
+ls -ld */
+cd /Staff
+sudo cd /Staff
+sudo mkdir /Staff2
+cd  /Staff2
+sudo mkdir /staff2_backup
+cd
+sudo cd /Staff2
+cd /Staff2
+rm staff2_backup
+rm /staff2_backup
+rm -r /staff2_backup
+ls
+vim backup_Script2.sh
+sudo vim backup_Script2.sh
+sudo vim backup_Script.sh
+cd
+ls
+sudovim backup_Script2.sh
+sudo vim backup_Script2.sh
+cd /staff2
+cd /Staff2
+pwd
+sudo vim backup_Script2.sh
+sudo vim backup_Script.sh
+sudo vim backup_Script2.sh
+cd
+sudo vim backup_Script2.sh
+./backup_Script2.sh
+sudo ./backup_Script2.sh
+mkdir /lastStaffbackup
+sudo mkdir staff3back
+sudo vim backup_Script2.sh
+sudo ./backup_Script2.sh
+sudo vim backup_Script2.sh
+crontab -e
+git init
+git add.
+git add .
+git commit -m "Initial commit"
+git config --global user.email "naibei.cherop37@gmail.com"
+git config --global user.name "cheropnai"
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <https://github.com/cheropnai/serverAdminlab5>
+git push -u origin main
+git remote add origin https://github.com/cheropnai/serverAdminlab5
+git remote -v
+git branch -M main
+git push -u origin main
+ssh-keygen -t rsa -b 4096 -C "naibie.cherop37@gmail.com"
+git push -u  origin main
+git push -u origin main
+mkdir /Staff
+sudo mkdir /Staff
+touch backup_Script2.sh
+chmod +x backupScript2.sh
+chmod +x backup_Script2.sh
+vim backup_Script2.sh
+./backup_Script2.sh
+mkdir /staff_backup
+sudo mkdir /staff_backup
+vim backup_Script2.sh
+./backup_Script2.sh
+su Monicah_Naibei_145890
