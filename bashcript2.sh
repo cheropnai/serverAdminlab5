@@ -9,4 +9,4 @@ then
 elif [ $salary != $expenses ];
 then
     echo "Salary and expenses are not equal"
-S
+fi

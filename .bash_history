@@ -177,3 +177,80 @@ sudo mkdir /staff_backup
 vim backup_Script2.sh
 ./backup_Script2.sh
 su Monicah_Naibei_145890
+git push -u name
+git push -u origin name
+git remote set-url origin https://github.com/cheropnai/serverAdminlab5.git
+git push -u origin name
+git branch -a
+git branch -M name
+git branch -a
+git push -u origin name
+ping google.com
+ssh-keygen -t rsa -b 4096 -C "naibei.cherop37@gmail.com" 
+eval "$(ssh-agent -s)" 
+git add .
+git commit -m "initial commit"
+git branch
+git push origin name
+git remote em name
+git remote rm name
+git remote 
+git remote -v
+git remote rm https://github.com/cheropnai/serverAdminlab5.git
+git remote remove origin
+gitremote -v
+git clone 
+ssh-keygen -t rsa -b 4096 -C "naibei.cherop37@gmail.com" 
+git add .
+git push origin name
+git add
+git add .
+git commit -m "initial commit"
+
+git branch
+git status
+git remote -v
+git remote set-url origin https://github.com/username/repo.git
+git remote set-url origin https://github.com/cheropnai/serverAdminlab5.git
+git remote set-url https://github.com/cheropnai/serverAdminlab5.git5
+git push origin name
+git remote remove origin
+git remote -v
+git clone  git@github.com:cheropnai/serverAdminlab5.git
+git clone git@github.com:cheropnai/serverAdminlab5.git
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+ls ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "naibei.cherop37@gmail.com" 
+ls ~/.ssh
+ls
+vim bashcript.sh
+sudo vim bashcript.sh
+./bashcript.sh
+sudo ./bashscript.sh
+sudo vim /bashcript.sh
+sudo vim /bashscript.sh
+vim bashscript.sh
+sudo ./bashcript2.sh
+sudo vim bashcript2.sh
+sudo ./bashcript2.sh
+sudo vim bashcript3.sh
+sudo ./bashcript3.sh
+sudo vim backup_Script2.sh
+sudo ./backup_Script2.sh
+crontab -e
+sudo vim bashcript2
+sudo vim bashcript2.sh
+sudo ./bashcript2.sh
+ ssh-keygen -t ed25519 -C “naibei.cherop37@gmail.com"
+
+exit
+
+
+
+
+
+sudo vim bashcript2
+
+
+ssh-keygen -t ed25519 -C “naibei.cherop37@gmail.com"
+

@@ -11,8 +11,8 @@
 ~MSle0~/bin
 
 # Command Line History (newest to oldest):
-:q!
 :wq
+:q!
 :q
 :wq!
 
@@ -34,16 +34,22 @@
 	:
 
 # File marks:
-'0  1  0  /Staff2/backup_Script2.sh
-'1  10  0  ~/backup_Script2.sh
-'2  16  0  ~/backup_Script2.sh
-'3  8  0  ~/bashcript3.sh
-'4  12  0  ~/bashcript2.sh
-'5  5  0  ~/bashscript.sh
-'6  1  2  ~/bashscript
-'7  1  11  ~/bashscript.sh
+'0  2  57  ~/hello/hello.py
+'1  2  64  ~/hello/hello.py
+'2  5  0  ~/bashscript.sh
+'3  1  0  ~/bashcript.sh
+'4  1  0  /Staff2/backup_Script2.sh
+'5  10  0  ~/backup_Script2.sh
+'6  16  0  ~/backup_Script2.sh
+'7  8  0  ~/bashcript3.sh
+'8  12  0  ~/bashcript2.sh
+'9  1  2  ~/bashscript
 
 # Jumplist (newest first):
+-'  2  57  ~/hello/hello.py
+-'  1  0  ~/hello/hello.py
+-'  5  0  ~/bashscript.sh
+-'  1  0  ~/bashcript.sh
 -'  1  0  /Staff2/backup_Script2.sh
 -'  10  0  ~/backup_Script2.sh
 -'  16  0  ~/backup_Script2.sh
@@ -52,98 +58,122 @@
 -'  1  0  ~/bashcript3.sh
 -'  12  0  ~/bashcript2.sh
 -'  1  0  ~/bashcript2.sh
--'  5  0  ~/bashscript.sh
 -'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
 -'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
 -'  12  0  ~/bashcript2.sh
 -'  1  0  ~/bashcript2.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
 -'  12  0  ~/bashcript2.sh
 -'  1  0  ~/bashcript2.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
 -'  1  2  ~/bashscript
 -'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
 -'  12  0  ~/bashcript2.sh
 -'  1  0  ~/bashcript2.sh
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  8  0  ~/bashcript3.sh
+-'  1  0  ~/bashcript3.sh
 -'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
--'  1  2  ~/bashscript
--'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
--'  1  2  ~/bashscript
--'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
--'  1  2  ~/bashscript
--'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
--'  5  0  ~/bashscript.sh
--'  1  11  ~/bashscript.sh
--'  1  2  ~/bashscript
--'  1  2  ~/bashscript
--'  2  0  ~/bashscript.sh
+-'  1  0  ~/bashcript.sh
+-'  1  0  /Staff2/backup_Script2.sh
+-'  10  0  ~/backup_Script2.sh
+-'  16  0  ~/backup_Script2.sh
+-'  1  0  ~/backup_Script2.sh
 -'  8  0  ~/bashcript3.sh
 -'  1  0  ~/bashcript3.sh
 -'  12  0  ~/bashcript2.sh
 -'  1  0  ~/bashcript2.sh
+-'  1  11  ~/bashscript.sh
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  2  0  ~/bashscript.sh
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  12  0  ~/bashcript2.sh
+-'  1  0  ~/bashcript2.sh
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  12  0  ~/bashcript2.sh
+-'  1  0  ~/bashcript2.sh
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  1  2  ~/bashscript
+-'  12  0  ~/bashcript2.sh
+-'  1  0  ~/bashcript2.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/hello/hello.py
+	"	2	57
+	^	2	58
+	.	2	57
+	+	2	32
+	+	2	64
+	+	2	7
+	+	2	65
+	+	2	6
+	+	2	56
+	+	2	57
+
+> ~/bashscript.sh
+	"	5	0
+	^	5	1
+	.	5	0
+	+	1	26
+	+	1	48
+	+	1	11
+	+	1	10
+	+	1	11
+	+	1	22
+	+	1	22
+	+	4	14
+	+	1	10
+	+	5	0
+
+> ~/bashcript.sh
+	"	1	0
 
 > /Staff2/backup_Script2.sh
 	"	1	0
@@ -170,21 +200,6 @@
 	^	12	1
 	.	12	0
 	+	12	0
-
-> ~/bashscript.sh
-	"	5	0
-	^	5	1
-	.	5	0
-	+	1	26
-	+	1	48
-	+	1	11
-	+	1	10
-	+	1	11
-	+	1	22
-	+	1	22
-	+	4	14
-	+	1	10
-	+	5	0
 
 > ~/bashscript
 	"	1	2
